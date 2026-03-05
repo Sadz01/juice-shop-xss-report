@@ -1,6 +1,6 @@
-# Reflected Cross-Site Scripting (XSS) Vulnerability Report
+# Reflected XSS Vulnerability Report
 
-This repository documents a Reflected Cross-Site Scripting (XSS) vulnerability identified in the search functionality of OWASP Juice Shop.
+This repository documents a reflected XSS vulnerability found in the search bar of OWASP Juice Shop.
 
 The objective of this project was to:
 
