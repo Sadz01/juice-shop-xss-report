@@ -1,5 +1,5 @@
-## 📄 Vulnerability Report
+## Reflected XSS Vulnerability Report
 
 You can view the full report here:
 
-- [Reflected XSS Vulnerability Report](Reflected%20XSS%20Vulnerability%20Report.pdf)
+- [Reflected XSS Vulnerability Report](reportsPDF/Reflected_XSS_Vulnerability_Report.pdf?raw=1)
